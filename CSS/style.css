@@ -28,8 +28,8 @@ body {
   overflow-x: hidden;
   width: 100%; 
   margin: 0; 
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("background.jpg");
-  background-size: cover;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../Images/background.jpg");
+  background-size: cover;   
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -1131,9 +1131,9 @@ section {
         content: "Web Designer";
     }
     61%, 80%{
-        content: "Content Writer";
+        content: "QA Analyst";
     }
     81%, 100%{
-        content: "Script Writer";
+        content: "Digital Marketer";
     }
 }
